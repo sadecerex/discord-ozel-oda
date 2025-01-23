@@ -1,0 +1,17 @@
+{
+    "name": "ozelodasistemi",
+    "version": "1.0.0",
+    "description": "Davetler ile Çalışan Özel Oda Sistemi",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.17.3",
+        "fs": "0.0.1-security",
+        "mongoose": "^7.0.0",
+        "path": "^0.12.7"
+    },
+    "author": "sadecerex",
+    "license": "ISC"
+}
